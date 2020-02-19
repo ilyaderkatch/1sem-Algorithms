@@ -1,0 +1,3 @@
+/home/dalex/Desktop/1st algo sem/task 2/ problem A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dalex/Desktop/1st algo sem/task 2/ problem A/cmake-build-debug/CMakeFiles/_problem_A.dir
+/home/dalex/Desktop/1st algo sem/task 2/ problem A/cmake-build-debug/CMakeFiles/edit_cache.dir
